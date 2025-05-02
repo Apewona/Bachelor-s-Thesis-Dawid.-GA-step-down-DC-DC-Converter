@@ -1,2 +1,1 @@
-[📄 Bachelor's Thesis (PDF)](Bachelor's Thesis.pdf)
-
+[📄 Bachelor's Thesis (PDF)](Bachelor's%20Thesis.pdf)
