@@ -66,25 +66,6 @@ Appendices 1–5
 
 ---
 
-## Quick Start Guide
-
-### Step 1 – Model Setup
-- Load the discrete model of the Buck converter in MATLAB.
-- Ensure all system parameters are correctly initialized.
-- Verify the two-state PI control system implementation.
-
-### Step 2 – Genetic Algorithm Optimization
-- Run the genetic algorithm program included in the appendices.
-- Define population, crossover, mutation, and selection parameters.
-- Execute the optimization to determine controller settings.
-
-### Step 3 – Verification and Analysis
-- Simulate the optimized controller with the converter model in MATLAB and Simulink.
-- Analyze transient responses and steady-state performance.
-- Compare integral performance criteria for multiple system configurations.
-
----
-
 ## Acknowledgements
 
 I would like to express my sincere gratitude to the **Faculty of Electrical Engineering at Bialystok University of Technology** for providing academic and technical support throughout this work. I also extend my thanks to my supervisor, **dr inż. Krzysztof Rogowski**, for guidance, constructive feedback, and for sharing valuable expertise in control systems and power electronics.
